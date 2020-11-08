@@ -65,3 +65,8 @@ diff=difflib.HtmlDiff()
 	# f.write(result)
 	
 print (diff.make_file(file1_lines,file2_lines))
+
+"""Reference
+[1] https://www.cnblogs.com/biaopei/p/7730530.html
+[2] https://blog.csdn.net/Aplox/article/details/103834638?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param
+"""
